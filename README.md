@@ -49,6 +49,9 @@ python watermarker.py
 The watermark is created as a transparent image and overlaid on the video using `MoviePy`.
 Its movement is calculated with sinusoidal functions to create a dynamic effect that is hard to remove.
 
+Il watermark viene creato come immagine trasparente e sovrapposto al video usando `MoviePy`. 
+Il suo movimento è calcolato con funzioni sinusoidali per creare un effetto dinamico difficile da rimuovere.
+
 ---
 
 Disclaimer / Avvertenze
